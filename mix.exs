@@ -52,7 +52,7 @@ defmodule Hui.MixProject do
       {:dialyxir, "~> 1.0.0-rc.3", only: [:dev], runtime: false},
       {:excoveralls, "~> 0.12", only: :test},
       {:cowboy, "~> 2.6"},
-      {:cowlib, "~> 2.8.0"}
+      {:cowlib, "~> 2.9"}
     ]
   end
 
